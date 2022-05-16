@@ -38,3 +38,8 @@ Open and close are the prices at which a security began and ended trading in the
 * fetch.py: acutal fetching function implementation. Takes about 1 minute to update price of every ticker within S&P 500 stock pool.
 * server.py: backend that will automatically fetch data from yahoo finance api and provoid data pipeline infrastructure for machine learning analysis and front end.
 * s&p500.csv: all the stock ticker that is supported to fetch data now (S&P500). 
+
+# Demo
+
+![](demo.png)
+
