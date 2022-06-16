@@ -1,7 +1,5 @@
 # Intelligent Financial Data Platform
 
-This is the final project for Cornell CS5412 Cloud Computing
-
 # Data Description
 Data stored in the Cosmos DB is following format in a dict with two important attributes id and val.
 
